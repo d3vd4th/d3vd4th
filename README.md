@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**d3vd4th/d3vd4th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ajxv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vd4th&layout=compact&theme=holi" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <picture>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mui,firebase,html,js,bootstrap&theme=dark" width='250'/>
+  </picture>
+</p>
