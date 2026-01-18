@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://github.com/ajxv">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vd4th&layout=compact&theme=holi" />
 </a>
 </p>
